@@ -4,7 +4,7 @@
   abbr        = {AJP-Heart},
   title       = {Mechanistic Insights on Age-Related Changes in Heart-Aorta-Brain Hemodynamic Coupling Using a Pulse Wave Model of the Entire Circulatory System},
   author      = {Aghilinejad, Arian and Amlani, Faisal and Mazandarani, Sohrab P. and King, Kevin S. and Pahlevan, Niema M.},
-  abstract    = {This study investigates how age-related changes in cardiac function and vasculature affect the underlying mechanisms involved in the left ventricle-aorta-brain hemodynamic coupling.},
+  abstract    = {Age-related changes in aortic biomechanics can impact the brain by reducing blood flow and increasing pulsatile energy transmission. Clinical studies have shown that impaired cardiac function in patients with heart failure is associated with cognitive impairment. Although previous studies have attempted to elucidate the complex relationship between age-associated aortic stiffening and pulsatility transmission to the cerebral network, they have not adequately addressed the effect of interactions between aortic stiffness and left ventricle (LV) contractility (neither on energy transmission nor on brain perfusion). In this study, we use a well-established and validated one-dimensional blood flow and pulse wave computational model of the circulatory system to address how age-related changes in cardiac function and vasculature affect the underlying mechanisms involved in the LV-aorta-brain hemodynamic coupling. Our results reveal how LV contractility affects pulsatile energy transmission to the brain, even with preserved cardiac output. Our model demonstrates the existence of an optimal heart rate (near the normal human heart rate) that minimizes pulsatile energy transmission to the brain at different contractility levels. Our findings further suggest that the reduction in cerebral blood flow at low levels of LV contractility is more prominent in the setting of age-related aortic stiffening. Maintaining optimal blood flow to the brain requires either an increase in contractility or an increase in heart rate. The former consistently leads to higher pulsatile power transmission, and the latter can either increase or decrease subsequent pulsatile power transmission to the brain.},
   journal     = {American Journal of Physiology - Heart and Circulatory Physiology},
   volume      = {325},
   issue       = {5},
@@ -14,119 +14,42 @@
   publisher   = {American Physiological Society},
   doi         = {10.1152/ajpheart.00314.2023},
   url         = {https://journals.physiology.org/doi/abs/10.1152/ajpheart.00314.2023},
+  pdf         = {ajp_aghilinejad.pdf},
   selected    = {true}
   }
   
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@article{Aghilinejad2025SpectralML,
+  abbr        = {PNAS},
+  title       = {A Spectral Machine Learning Approach to Derive Central Aortic Pressure Waveforms from a Brachial Cuff},
+  author      = {Tamborini, Alessio and Aghilinejad, Arian and Gharib, Morteza},
+  abstract    = {Analyzing cardiac pulse waveforms offers valuable insights into heart health and cardiovascular disease risk, although obtaining the more informative measurements from the central aorta remains challenging due to their invasive nature and limited noninvasive options. To address this, we employed a laboratory-developed cuff device for high-resolution pulse waveform acquisition and constructed a spectral machine learning model to nonlinearly map the brachial wave components to the aortic site. Simultaneous invasive aortic catheter and brachial cuff waveforms were acquired in 115 subjects to evaluate the clinical performance of the developed wave-based approach. Magnitude, shape, and pulse waveform analysis on the measured and reconstructed aortic waveforms were correlated on a beat-to-beat basis. The proposed cuff-based method reconstructed aortic waveform contours with high fidelity (mean normalized-RMS error = 11.3%). Furthermore, continuous signal reconstruction captured dynamic aortic systolic blood pressure (BP) oscillations (r = 0.76, P < 0.05). Method-derived central pressures showed strong correlation with the independent invasive measurement for systolic BP (R2 = 0.83; B [LOA] = −0.3 [−17.0, 16.4] mmHg) and diastolic BP (R2 = 0.58; B [LOA] = −0.7 [−13.1, 11.6] mmHg). Shape-based features are effectively captured by the spectral machine learning method, showing strong correlations and no systemic bias for systolic pressure–time integral (r = 0.91, P < 0.05), diastolic pressure–time integral (r = 0.95, P < 0.05), and subendocardial viability ratio (r = 0.86, P < 0.05). These results suggest that the nonlinear transformation of wave components from the distal to the central site predicts the morphological waveform changes resulting from complex wave propagation and reflection within the cardiovascular network. The proposed wave-based approach holds promise for future applications of noninvasive devices in clinical cardiology.},
+  journal     = {Proceedings of the National Academy of Sciences},
+  volume      = {122},
+  issue       = {14},
+  pages       = {e2416006122},
+  year        = {2025},
+  month       = {February},
+  publisher   = {National Academy of Sciences},
+  doi         = {10.1073/pnas.2416006122},
+  url         = {https://www.pnas.org/doi/10.1073/pnas.2416006122},
+  selected    = {true}
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@article{Aghilinejad2025PowerFrequency,
+  abbr        = {PhysRevFluids},
+  title       = {Power-Frequency Relationship of Wave Dynamics in Fluid-Filled Compliant Tubes},
+  author      = {Aghilinejad, Arian and Amlani, Faisal and Gharib, Morteza},
+  abstract    = {The human heart pumps in a pulsatile fashion that generates pressure and flow waves in the cardiovascular system. These waves propagate and reflect through a fractal tree network composed of fluid-filled compliant tubes. The resulting complex pressure and flow waves create a pulsatile workload (an important contributor to the pumping efficiency of the heart). Although such load has been shown to be dependent on inflow wave frequency, the fundamental relationship between power and frequency has not been directly explored. Hence the general idea of this work is to address this by modeling wave propagation in a generic pulsatile system through a fluid-structure interaction solver (based on a reduced-order Navier-Stokes formulation) applied to a fluid-filled compliant tube terminated by a controlled reflection site. We analyze the impact of reflection on such pulse waves and their associated power-frequency relationships. Our analysis considers moderate frequencies and large wavelengths as inspired by cardiovascular flows. Examining pressure-flow dynamics reveals two distinct regimes as a function of inflow frequency: a pressure-leading regime and a flow-leading regime. We observe that the latter transitions into the former at particular “optimum frequencies” that minimize the pulsatile load on the inlet and create nonlinearity in power-frequency patterns. Results suggest that the values of these frequencies strongly depend on the reflection coefficient of the tube. Our findings highlight the significance of reflection as a key determinant in design that can provide control of optimum inflow frequencies toward minimizing destructive pulsatile loads.},
+  journal     = {Physical Review Fluids},
+  volume      = {10},
+  issue       = {3},
+  pages       = {033102},
+  year        = {2025},
+  month       = {March},
+  publisher   = {American Physical Society},
+  doi         = {10.1103/PhysRevFluids.10.033102},
+  url         = {https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.033102},
+  pdf         = {PRF_Final_Submission.pdf},
+  selected    = {true}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
-}
