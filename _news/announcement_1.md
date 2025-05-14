@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper got published in the Physical Review Fluids.
+Our new paper titled "Power-frequency relationship of wave dynamics in fluid-filled compliant tubes" got published in the Physical Review Fluids.
