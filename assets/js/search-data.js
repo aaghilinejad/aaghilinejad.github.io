@@ -399,8 +399,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-our-new-paper-got-published-in-the-physical-review-fluids",
-          title: 'Our new paper got published in the Physical Review Fluids.',
+          section: "News",},{id: "news-our-new-paper-titled-power-frequency-relationship-of-wave-dynamics-in-fluid-filled-compliant-tubes-got-published-in-the-physical-review-fluids",
+          title: 'Our new paper titled “Power-frequency relationship of wave dynamics in fluid-filled compliant tubes”...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -460,13 +460,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/arian-aghilinejad-85828b108", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
