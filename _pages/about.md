@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <a href='https://www.caltech.edu'>Caltech # </a>. Address. Contacts. Motto. Etc.
+subtitle:  <a href='https://www.caltech.edu'>California Institute of Technology (Caltech) # </a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
