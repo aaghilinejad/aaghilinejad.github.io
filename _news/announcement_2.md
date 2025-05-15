@@ -6,6 +6,7 @@ inline: true
 related_posts: false
 ---
 
+
 Our paper ["A spectral machine learning approach to derive central aortic pressure waveforms from a brachial cuff"](https://www.pnas.org/doi/abs/10.1073/pnas.2416006122) (with A. Tamborini & M. Gharib) has been published at PNAS! 
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
