@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-papers",
-          title: "Papers",
+  },{id: "nav-publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-aortic-stretch-and-recoil-create-wave-pumping-effect-the-second-heart-in-the-systemic-circulation-with-c-bilgi-h-geng-amp-amp-n-pahlevan-has-been-published-at-inteface",
+          title: 'Our paper “Aortic stretch and recoil create wave-pumping effect: the second heart in...',
           description: "",
           section: "News",},{id: "news-our-paper-a-spectral-machine-learning-approach-to-derive-central-aortic-pressure-waveforms-from-a-brachial-cuff-with-a-tamborini-amp-amp-m-gharib-has-been-published-at-pnas",
           title: 'Our paper “A spectral machine learning approach to derive central aortic pressure waveforms...',
