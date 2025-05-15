@@ -28,16 +28,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-our-new-paper-titled-power-frequency-relationship-of-wave-dynamics-in-fluid-filled-compliant-tubes-got-published-in-the-physical-review-fluids",
-          title: 'Our new paper titled “Power-frequency relationship of wave dynamics in fluid-filled compliant tubes”...',
+          section: "News",},{id: "news-our-paper-a-spectral-machine-learning-approach-to-derive-central-aortic-pressure-waveforms-from-a-brachial-cuff-with-a-tamborini-amp-amp-m-gharib-has-been-published-at-pnas",
+          title: 'Our paper “A spectral machine learning approach to derive central aortic pressure waveforms...',
+          description: "",
+          section: "News",},{id: "news-our-paper-power-frequency-relationship-of-wave-dynamics-in-fluid-filled-compliant-tubes-with-f-amlani-amp-amp-m-gharib-has-been-published-at-physical-review-fluids",
+          title: 'Our paper “Power-frequency relationship of wave dynamics in fluid-filled compliant tubes” (with F....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
