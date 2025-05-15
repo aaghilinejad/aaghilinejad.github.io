@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Our new paper titled "Power-frequency relationship of wave dynamics in fluid-filled compliant tubes" got published in the Physical Review Fluids.
+
+
+Our paper ["Power-frequency relationship of wave dynamics in fluid-filled compliant tubes"](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.033102) (with F. Amlani & M. Gharib) has been published at Physical Review Fluids! 
