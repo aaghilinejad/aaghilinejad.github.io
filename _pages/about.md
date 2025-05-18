@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  California Institute of Technology 
-           aghili [at] caltech [dot] edu
+subtitle: "California Institute of Technology<br>aghili [at] caltech [dot] edu"
 # </a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -15,7 +14,7 @@ profile:
     <p>1200 E California Blvd</p>
     <p>Pasadena, CA 91125</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
