@@ -16,9 +16,10 @@ My research focuses on **Biofluid Dynamics and Data Analytics in Medicine**, com
 
 ## **Cardiovascular Wave Dynamics and Heart–Aorta Interaction**
 
+I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
-    <p>I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.</p>
     <ul>
       <li>Investigating wave-based flow mechanisms that contribute to cardiac output</li>
       <li>Developing in-vitro systems to simulate aortic wave pumping dynamics</li>
@@ -29,7 +30,7 @@ My research focuses on **Biofluid Dynamics and Data Analytics in Medicine**, com
   </div>
   <div style="flex: 1; min-width: 300px;">
     <video controls autoplay loop muted playsinline style="max-width: 100%; height: auto;">
-      <source src="/assets/video/video_p1.mp4" type="video/mp4">
+      <source src="/assets/video/video_p1.mov" type="video/quicktime">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -60,12 +61,27 @@ My goal is to develop fluid-based markers for vascular age and design strategies
 
 ## **Microfluidic Technologies for Particle Separation**
 
-I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <p>I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.</p>
+    <ul>
+      <li>Designing high-throughput platforms for isolating circulating tumor cells (CTCs)</li>
+      <li>Integrating deterministic lateral displacement (DLD) and dielectrophoresis (DEP)</li>
+    </ul>
+    <p>These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics.</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/img/video_p3_GIF.gif" alt="Microfluidic Devices" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
+
+<!-- I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.
 
 - Designing high-throughput platforms for isolating circulating tumor cells (CTCs)
 - Integrating deterministic lateral displacement (DLD) and dielectrophoresis (DEP)
 
-These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics.
+These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics. -->
 
 
 
