@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# **Research**
+<!-- # **Research** -->
 
 My research focuses on **Biofluid Dynamics and Data Analytics in Medicine**, combining engineering principles, fluid mechanics, and machine learning to study the biomechanics of cardiovascular system and to develop diagnostic and therapeutic tools for clinical application. Using a multidisciplinary approach that integrates computational modeling, in-vitro experiments, and clinical study, I aim to understand the mechanics of disease and translate these insights into personalized medical technologies.
 
@@ -49,9 +49,9 @@ These technologies support continuous, label-free separation of target particles
 
 ---
 
-*I welcome collaborations across disciplines and am actively working researchers who are passionate about applying physics and engineering to medicine.*
+<!-- *I welcome collaborations across disciplines and am actively working researchers who are passionate about applying physics and engineering to medicine.*
  
-# recruiting students and
+# recruiting students and -->
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
