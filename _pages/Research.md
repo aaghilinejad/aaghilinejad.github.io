@@ -35,7 +35,6 @@ I study how fluid–structure interactions at the heart–aorta interface influe
   </div>
 </div>
 
-
 This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment.
 
 <!-- I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
