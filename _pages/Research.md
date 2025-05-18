@@ -26,12 +26,13 @@ I study how fluid–structure interactions at the heart–aorta interface influe
 This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment.
 
 <div style="margin-top: 20px; text-align: center;">
-  <video controls autoplay loop muted playsinline style="max-width: 100%; max-height: 200px; object-fit: contain;">
+  <video controls autoplay loop muted playsinline style="max-width: 100%; max-height: 400px; object-fit: contain;">
     <source src="/assets/video/video_p1.mov" type="video/quicktime">
     Your browser does not support the video tag.
   </video>
   <div style="font-size: 0.8em; color: #666; margin-top: 4px;">video</div>
 </div>
+
 
 
 <!-- I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
@@ -97,6 +98,11 @@ I investigate how age-related cardiovascular changes affect blood flow to sensit
 
 My goal is to develop fluid-based markers for vascular age and design strategies to mitigate downstream effects of systemic aging on organ microcirculation.
 
+<div style="margin-top: 20px; text-align: center;">
+  <img src="/assets/img/fig_4.png" alt="Figure 4" style="max-width: 100%; height: auto; object-fit: contain;">
+  <div style="font-size: 0.8em; color: #666; margin-top: 4px;">figure</div>
+</div>
+
 ---
 
 ## **Microfluidic Technologies for Particle Separation**
@@ -109,9 +115,10 @@ I apply fluid dynamics to microfluidic device design for biomedical applications
 These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics.
 
 <div style="margin-top: 20px; text-align: center;">
-  <img src="/assets/img/video_p3_GIF.gif" alt="Microfluidic Devices" style="max-width: 100%; max-height: 180px; object-fit: contain;">
+  <img src="/assets/img/video_p3_GIF.gif" alt="Microfluidic Devices" style="max-width: 100%; max-height: 400px; object-fit: contain;">
   <div style="font-size: 0.8em; color: #666; margin-top: 4px;">gif</div>
 </div>
+
 
 
 <!-- I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.
