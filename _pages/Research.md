@@ -26,7 +26,6 @@ I study how fluid–structure interactions at the heart–aorta interface influe
       <li>Creating computational models to assess how vessel wall properties affect flow</li>
       <li>Designing technologies inspired by valveless impedance mechanisms</li>
     </ul>
-    <p>This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment.</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <video controls autoplay loop muted playsinline style="max-width: 100%; height: auto;">
@@ -35,6 +34,8 @@ I study how fluid–structure interactions at the heart–aorta interface influe
     </video>
   </div>
 </div>
+
+This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment.
 
 <!-- I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
 
@@ -61,20 +62,21 @@ My goal is to develop fluid-based markers for vascular age and design strategies
 
 ## **Microfluidic Technologies for Particle Separation**
 
+I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
-    <p>I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.</p>
     <ul>
       <li>Designing high-throughput platforms for isolating circulating tumor cells (CTCs)</li>
       <li>Integrating deterministic lateral displacement (DLD) and dielectrophoresis (DEP)</li>
     </ul>
-    <p>These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics.</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <img src="/assets/img/video_p3_GIF.gif" alt="Microfluidic Devices" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
+These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics.
 
 <!-- I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.
 
