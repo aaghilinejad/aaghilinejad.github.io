@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle:  California Institute of Technology (Caltech) # </a>. Address. Contacts. Motto. Etc.
+subtitle:  California Institute of Technology 
+           aghili [at] caltech [dot] edu
+# </a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right

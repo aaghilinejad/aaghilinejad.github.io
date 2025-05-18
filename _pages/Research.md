@@ -18,6 +18,27 @@ My research focuses on **Biofluid Dynamics and Data Analytics in Medicine**, com
 
 I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
 
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <ul style="margin-top: 0; margin-bottom: 0;">
+      <li>Investigating wave-based flow mechanisms that contribute to cardiac output</li>
+      <li>Developing in-vitro systems to simulate aortic wave pumping dynamics</li>
+      <li>Creating computational models to assess how vessel wall properties affect flow</li>
+      <li>Designing technologies inspired by valveless impedance mechanisms</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
+    <video controls autoplay loop muted playsinline style="max-width: 100%; max-height: 200px; object-fit: contain;">
+      <source src="/assets/video/video_p1.mov" type="video/quicktime">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment.
+
+<!-- I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
     <ul>
@@ -35,7 +56,7 @@ I study how fluid–structure interactions at the heart–aorta interface influe
   </div>
 </div>
 
-This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment.
+This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment. -->
 
 <!-- I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
 
@@ -64,6 +85,23 @@ My goal is to develop fluid-based markers for vascular age and design strategies
 
 I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.
 
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <ul style="margin-top: 0; margin-bottom: 0;">
+      <li>Designing high-throughput platforms for isolating circulating tumor cells (CTCs)</li>
+      <li>Integrating deterministic lateral displacement (DLD) and dielectrophoresis (DEP)</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
+    <img src="/assets/img/video_p3_GIF.gif" alt="Microfluidic Devices" style="max-width: 100%; max-height: 180px; object-fit: contain;">
+  </div>
+</div>
+
+These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics.
+
+
+<!-- I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.
+
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
     <ul>
@@ -76,7 +114,7 @@ I apply fluid dynamics to microfluidic device design for biomedical applications
   </div>
 </div>
 
-These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics.
+These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics. -->
 
 <!-- I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.
 
