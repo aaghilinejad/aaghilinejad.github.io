@@ -9,20 +9,40 @@ nav_order: 6
 
 <!-- # **Research** -->
 
+
 My research focuses on **Biofluid Dynamics and Data Analytics in Medicine**, combining engineering principles, fluid mechanics, and machine learning to study the biomechanics of cardiovascular system and to develop diagnostic and therapeutic tools for clinical application. Using a multidisciplinary approach that integrates computational modeling, in-vitro experiments, and clinical study, I aim to understand the mechanics of disease and translate these insights into personalized medical technologies.
 
 ---
 
 ## **Cardiovascular Wave Dynamics and Heart–Aorta Interaction**
 
-I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <p>I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.</p>
+    <ul>
+      <li>Investigating wave-based flow mechanisms that contribute to cardiac output</li>
+      <li>Developing in-vitro systems to simulate aortic wave pumping dynamics</li>
+      <li>Creating computational models to assess how vessel wall properties affect flow</li>
+      <li>Designing technologies inspired by valveless impedance mechanisms</li>
+    </ul>
+    <p>This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment.</p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <video controls autoplay loop muted playsinline style="max-width: 100%; height: auto;">
+      <source src="/assets/video/video_p1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+<!-- I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
 
 - Investigating wave-based flow mechanisms that contribute to cardiac output
 - Developing in-vitro systems to simulate aortic wave pumping dynamics
 - Creating computational models to assess how vessel wall properties affect flow
 - Designing technologies inspired by valveless impedance mechanisms
 
-This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment.
+This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment. -->
 
 ---
 
@@ -46,6 +66,11 @@ I apply fluid dynamics to microfluidic device design for biomedical applications
 - Integrating deterministic lateral displacement (DLD) and dielectrophoresis (DEP)
 
 These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics.
+
+
+
+
+
 
 <!-- --- -->
 
