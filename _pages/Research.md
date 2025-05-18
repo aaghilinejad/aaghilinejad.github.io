@@ -47,7 +47,7 @@ I apply fluid dynamics to microfluidic device design for biomedical applications
 
 These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics.
 
----
+<!-- --- -->
 
 <!-- *I welcome collaborations across disciplines and am actively working researchers who are passionate about applying physics and engineering to medicine.*
  
