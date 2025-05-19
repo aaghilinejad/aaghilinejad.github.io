@@ -26,12 +26,29 @@ I study how fluid–structure interactions at the heart–aorta interface influe
 This line of research aims to uncover how wave reflections and elastic wall behavior can be leveraged therapeutically to reduce cardiac workload and optimize heart failure treatment.
 
 <div style="margin-top: 20px; text-align: center;">
+  <video id="video_p1" controls autoplay loop muted playsinline style="max-width: 100%; max-height: 400px; object-fit: contain;">
+    <source src="/assets/video/video_p1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div style="font-size: 0.8em; color: #666; margin-top: 4px;">video</div>
+</div>
+
+<script>
+  // Fallback for older browsers to ensure looping behavior
+  const video = document.getElementById('video_p1');
+  video.addEventListener('ended', () => {
+    video.currentTime = 0;
+    video.play();
+  });
+</script>
+
+<!-- <div style="margin-top: 20px; text-align: center;">
   <video controls autoplay loop muted playsinline style="max-width: 100%; max-height: 400px; object-fit: contain;">
     <source src="/assets/video/video_p1.mov" type="video/quicktime">
     Your browser does not support the video tag.
   </video>
   <div style="font-size: 0.8em; color: #666; margin-top: 4px;">video</div>
-</div>
+</div> -->
 
 
 
@@ -115,8 +132,8 @@ I apply fluid dynamics to microfluidic device design for biomedical applications
 These technologies support continuous, label-free separation of target particles and offer promising applications in point-of-care diagnostics.
 
 <div style="margin-top: 20px; text-align: center;">
-  <img src="/assets/img/video_p3_GIF.gif" alt="Microfluidic Devices" style="max-width: 100%; max-height: 400px; object-fit: contain;">
-  <div style="font-size: 0.8em; color: #666; margin-top: 4px;">gif</div>
+  <img src="/assets/img/output_small.gif" alt="Microfluidic Devices" style="max-width: 100%; max-height: 400px; object-fit: contain;">
+  <div style="font-size: 0.8em; color: #666; margin-top: 4px;">video</div>
 </div>
 
 
