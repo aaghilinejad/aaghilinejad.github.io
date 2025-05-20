@@ -30,7 +30,8 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-I am an Assistant Professor in the Department of Bioengineering at University of California, Merced. My research intersts include biomedical flows, fluid–structure interaction, the development of noninvasive diagnostic technologies, and the application of machine learning to hemodynamics and pulse wave analysis. Before joining UC Merced, I was a postdoctoral research associate in the Division of Engineering and Applied Science at the California Institute of Technology (Caltech) working with [Prof. Morteza Gharib](https://www.gharib.caltech.edu). I earned my B.S. in Mechanical Engineering from Sharif University of Technology and completed my Ph.D. at the University of Southern California (USC) with [Prof. Niema Pahlevan](https://pahlevan.usc.edu).
+
+<span style="color: red;">I am an incoming Assistant Professor in the Department of Bioengineering at University of California, Merced.</span> My research intersts include biomedical flows, fluid–structure interaction, the development of noninvasive diagnostic technologies, and the application of machine learning to hemodynamics and pulse wave analysis. Currently, I am a postdoctoral research associate in the Division of Engineering and Applied Science at the California Institute of Technology (Caltech) working with [Prof. Morteza Gharib](https://www.gharib.caltech.edu). I earned my B.S. in Mechanical Engineering from Sharif University of Technology and completed my Ph.D. at the University of Southern California (USC) with [Prof. Niema Pahlevan](https://pahlevan.usc.edu).
 
 If you are interested in working with me, please visit the Openings tab on this website and follow the instructions provided to get in touch.
 
