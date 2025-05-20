@@ -29,7 +29,7 @@ Prospective students with prior research experience in biomedical flows, hemodyn
 
 ## **Postdoctoral Applicants**
 
-I welcome applications from candidates with expertise or strong interest in clinical data analytics, machine learning, and non-invasive diagnostic technologies. Experience in cardiovascular signal processing is preferred but not required. Salaries are competitive, and all UC postdocs receive comprehensive benefits. Applications will be reviewed on a rolling basis until the position is filled.  
+I welcome applications from candidates with expertise or strong interest in clinical data analytics, machine learning, and non-invasive diagnostic technologies. Experience in cardiovascular signal processing is preferred but not required. Salaries are competitive, and postdocs receive comprehensive benefit package based on the UC policies. Applications will be reviewed on a rolling basis until the position is filled.  
 
 To apply, please send the following materials to **aaghilinejad [at] ucmerced [dot] edu**:
 
