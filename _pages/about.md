@@ -9,10 +9,10 @@ profile:
   align: right
   image: Headshot.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>277 Firestone Laboratory</p>
-    <p>1200 E California Blvd</p>
-    <p>Pasadena, CA 91125</p>
+  # more_info: >
+  #   <p>277 Firestone Laboratory</p>
+  #   <p>1200 E California Blvd</p>
+  #   <p>Pasadena, CA 91125</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
