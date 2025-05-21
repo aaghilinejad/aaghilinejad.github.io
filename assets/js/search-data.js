@@ -42,7 +42,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-our-paper-aortic-stretch-and-recoil-create-wave-pumping-effect-the-second-heart-in-the-systemic-circulation-with-c-bilgi-h-geng-amp-amp-n-pahlevan-has-been-published-at-inteface",
+          title: 'Our paper “Aortic stretch and recoil create wave-pumping effect: the second heart in...',
+          description: "",
+          section: "News",},{id: "news-our-paper-a-spectral-machine-learning-approach-to-derive-central-aortic-pressure-waveforms-from-a-brachial-cuff-with-a-tamborini-amp-amp-m-gharib-has-been-published-at-pnas",
+          title: 'Our paper “A spectral machine learning approach to derive central aortic pressure waveforms...',
+          description: "",
+          section: "News",},{id: "news-our-paper-power-frequency-relationship-of-wave-dynamics-in-fluid-filled-compliant-tubes-with-f-amlani-amp-amp-m-gharib-has-been-published-at-physical-review-fluids",
+          title: 'Our paper “Power-frequency relationship of wave dynamics in fluid-filled compliant tubes” (with F....',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
