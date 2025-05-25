@@ -18,7 +18,7 @@ I am currently recruiting PhD students with a background and interest in one or 
 - Pulse Wave Analysis  
 - Microfluidics and Particle Separation  
 
-Positions are available for **Fall 2025** (If you are already at UC Merced) and **Spring 2026**. Interested applicants must apply through the UC Merced Graduate Division. Please review the application requirements [here](https://graduatedivision.ucmerced.edu/prospective-students/apply-now/requirements).  
+Positions are available for **Spring 2026** and **Fall 2026**. Interested applicants must apply through the UC Merced Graduate Division. Please review the application requirements [here](https://graduatedivision.ucmerced.edu/prospective-students/apply-now/requirements).  
 
 Prospective students with prior research experience in biomedical flows, hemodynamics, machine learning, hyperbolic PDE simulations, or experimental fluid mechanics are especially encouraged to reach out. To express interest, please email me at **aaghilinejad [at] ucmerced [dot] edu** with the following:
 
