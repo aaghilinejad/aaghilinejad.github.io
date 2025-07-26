@@ -304,7 +304,7 @@ ninja.data = [
       description: 'Change the theme of the site to Light',
       section: 'Theme',
       handler: () => {
-        setThemeSetting("light");
+        setThemeSetting("dark");
       },
     },
     {
@@ -322,7 +322,7 @@ ninja.data = [
       description: 'Change the theme of the site to System Default',
       section: 'Theme',
       handler: () => {
-        setThemeSetting("system"); 
+        setThemeSetting("dark"); 
       },
     },
   {%- endif -%}
