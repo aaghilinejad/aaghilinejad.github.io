@@ -270,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Aghilinejad]
-  first_name: [Arian]
+  last_name: [Aghilinejadlab]
+  first_name: []
 
   style: apa
   locale: en
