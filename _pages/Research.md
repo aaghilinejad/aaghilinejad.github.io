@@ -10,13 +10,13 @@ nav_order: 6
 <!-- # **Research** -->
 
 
-My research focuses on **Biofluid Dynamics and Data Analytics in Medicine**, combining engineering principles, fluid mechanics, and machine learning to study the biomechanics of cardiovascular system and to develop diagnostic and therapeutic tools for clinical application. Using a multidisciplinary approach that integrates computational modeling, in-vitro experiments, and clinical study, I aim to understand the mechanics of disease and translate these insights into personalized medical technologies.
+Aghilinejad research group focuses on **Biofluid Dynamics and Data Analytics in Medicine**, combining engineering principles, fluid mechanics, and machine learning to study the biomechanics of cardiovascular system and to develop diagnostic and therapeutic tools for clinical application. Using a multidisciplinary approach that integrates computational modeling, in-vitro experiments, and clinical study, we aim to understand the mechanics of disease and translate these insights into personalized medical technologies.
 
 ---
 
 ## **Cardiovascular Wave Dynamics and Heart–Aorta Interaction**
 
-I study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
+We study how fluid–structure interactions at the heart–aorta interface influence cardiovascular performance and disease progression.
 
 - Investigating wave-based flow mechanisms that contribute to cardiac output  
 - Developing in-vitro systems to simulate aortic wave pumping dynamics  
@@ -47,13 +47,13 @@ This line of research aims to uncover how wave reflections and elastic wall beha
 
 ## **Vascular Aging and Pulsatile Hemodynamics**
 
-I investigate how age-related cardiovascular changes affect blood flow to sensitive organs like the brain.
+We investigate how age-related cardiovascular changes affect blood flow to sensitive organs like the brain.
 
 - Modeling the impact of aortic stiffening on pressure and flow wave transmission
 - Exploring how vascular aging contributes to diseases such as Alzheimer’s
 - Decoding vascular age from pressure and flow waveforms
 
-My goal is to develop fluid-based markers for vascular age and design strategies to mitigate downstream effects of systemic aging on organ microcirculation.
+Our goal is to develop fluid-based markers for vascular age and design strategies to mitigate downstream effects of systemic aging on organ microcirculation.
 
 <div style="margin-top: 20px; text-align: center;">
   <img src="/assets/img/image_project_2.jpeg" alt="Figure 4" style="max-width: 100%; height: auto; object-fit: contain;">
@@ -64,7 +64,7 @@ My goal is to develop fluid-based markers for vascular age and design strategies
 
 ## **Microfluidic Technologies for Particle Separation**
 
-I apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.
+We apply fluid dynamics to microfluidic device design for biomedical applications, including cancer diagnostics.
 
 - Designing high-throughput platforms for isolating circulating tumor cells (CTCs)  
 - Integrating deterministic lateral displacement (DLD) and dielectrophoresis (DEP)  
