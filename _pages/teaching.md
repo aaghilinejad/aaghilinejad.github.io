@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /patents/
+permalink: /teaching/
 title: Patents #teaching
 description: Inventions and technologies developed as a result of my research. #Materials for courses you taught. Replace this text with your description.
 nav: true
