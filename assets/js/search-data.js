@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Inventions and technologies developed as a result of my research.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/patents/";
           },
         },{id: "nav-research",
           title: "Research",
