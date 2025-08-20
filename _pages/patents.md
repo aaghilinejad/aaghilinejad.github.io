@@ -2,7 +2,7 @@
 layout: page
 permalink: /patents/
 title: Patents #teaching
-description: Inventions and technologies developed as a result of my research. #Materials for courses you taught. Replace this text with your description.
+description: Inventions and technologies developed as a result of our research. #Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 3
 ---
