@@ -31,9 +31,9 @@ Prospective students with prior research experience in biomedical flows, hemodyn
 
 Multiple research projects are available in the Biofluid Dynamics and Data Analytics in Medicine Lab at UC Merced. We welcome motivated undergraduate students who are eager to learn about biomedical flows, physics, and their applications in biology and medicine. A minimum six-month research commitment is required. Interested students should contact Professor Aghilinejad at **aaghilinejad [at] ucmerced [dot] edu** with the following information:
 
-- Why you are interested in working in this lab
+- A brief description of your research interests
 - Your CV
-- A brief description of your research interests.
+
 
 ---
 
