@@ -57,7 +57,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-machine-learning-reconstruction-of-left-ventricular-pressure-from-peripheral-waveforms-with-a-tamborini-r-matthews-amp-amp-m-gharib-has-been-published-at-jacc-advances",
           title: 'Our paper “Machine learning reconstruction of left ventricular pressure from peripheral waveforms” (with...',
           description: "",
-          section: "News",},{id: "news-our-paper-pulseai-an-automated-machine-learning-based-augmentation-index-detector-for-arterial-stiffness-monitoring-from-cuff-based-measurements-with-a-tamborini-r-matthews-amp-amp-m-gharib-has-been-published-at-biomedical-signal-processing-and-control",
+          section: "News",},{id: "news-our-paper-pulseai-an-automated-machine-learning-based-augmentation-index-detector-for-arterial-stiffness-monitoring-from-cuff-based-measurements-with-a-tamborini-amp-amp-m-gharib-has-been-published-at-biomedical-signal-processing-and-control",
           title: 'Our paper “PulseAI: An automated machine learning-based augmentation index detector for arterial stiffness...',
           description: "",
           section: "News",},{id: "projects-project-1",
