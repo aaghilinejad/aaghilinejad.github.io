@@ -9,70 +9,53 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-## **Featured Journal Covers**
-
 <div style="margin-bottom: 2.5rem;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 1.2rem;">
 
-    <div style="text-align: center; width: 140px;">
-      <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/journal_covers/11500601.jpg" alt="IEEE Transactions on Biomedical Engineering"
-          style="height: 180px; width: 140px; object-fit: cover; border-radius: 4px;
-                 box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-                 transition: transform 0.25s ease, box-shadow 0.25s ease;"
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 24px rgba(0,0,0,0.7)';"
-          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';">
-      </a>
-      <p style="margin-top: 8px; font-size: 0.72em; color: var(--global-text-color-light); line-height: 1.3;">IEEE Trans.<br>Biomed. Eng.</p>
-    </div>
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/journal_covers/11500601.jpg" alt="IEEE Transactions on Biomedical Engineering"
+        style="height: 180px; width: 140px; object-fit: cover; border-radius: 4px;
+               box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+               transition: transform 0.25s ease, box-shadow 0.25s ease;"
+        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 24px rgba(0,0,0,0.7)';"
+        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';">
+    </a>
 
-    <div style="text-align: center; width: 140px;">
-      <a href="https://journals.physiology.org/journal/ajpheart" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/journal_covers/ajpheart.2023.325.issue-5.largecover.jpg" alt="American Journal of Physiology"
-          style="height: 180px; width: 140px; object-fit: cover; border-radius: 4px;
-                 box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-                 transition: transform 0.25s ease, box-shadow 0.25s ease;"
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 24px rgba(0,0,0,0.7)';"
-          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';">
-      </a>
-      <p style="margin-top: 8px; font-size: 0.72em; color: var(--global-text-color-light); line-height: 1.3;">Am. J. Physiology<br>Heart & Circ.</p>
-    </div>
+    <a href="https://journals.physiology.org/journal/ajpheart" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/journal_covers/ajpheart.2023.325.issue-5.largecover.jpg" alt="American Journal of Physiology"
+        style="height: 180px; width: 140px; object-fit: cover; border-radius: 4px;
+               box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+               transition: transform 0.25s ease, box-shadow 0.25s ease;"
+        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 24px rgba(0,0,0,0.7)';"
+        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';">
+    </a>
 
-    <div style="text-align: center; width: 140px;">
-      <a href="https://journals.aps.org/prfluids/" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/journal_covers/fluids-icon.jpg" alt="Physical Review Fluids"
-          style="height: 180px; width: 140px; object-fit: cover; border-radius: 4px;
-                 box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-                 transition: transform 0.25s ease, box-shadow 0.25s ease;"
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 24px rgba(0,0,0,0.7)';"
-          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';">
-      </a>
-      <p style="margin-top: 8px; font-size: 0.72em; color: var(--global-text-color-light); line-height: 1.3;">Physical Review<br>Fluids</p>
-    </div>
+    <a href="https://journals.aps.org/prfluids/" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/journal_covers/fluids-icon.jpg" alt="Physical Review Fluids"
+        style="height: 180px; width: 140px; object-fit: contain; border-radius: 4px;
+               box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+               transition: transform 0.25s ease, box-shadow 0.25s ease;"
+        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 24px rgba(0,0,0,0.7)';"
+        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';">
+    </a>
 
-    <div style="text-align: center; width: 140px;">
-      <a href="https://royalsocietypublishing.org/journal/rsif" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/journal_covers/m_rsif.2025.22.issue-223.cover.gif" alt="Journal of the Royal Society Interface"
-          style="height: 180px; width: 140px; object-fit: cover; border-radius: 4px;
-                 box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-                 transition: transform 0.25s ease, box-shadow 0.25s ease;"
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 24px rgba(0,0,0,0.7)';"
-          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';">
-      </a>
-      <p style="margin-top: 8px; font-size: 0.72em; color: var(--global-text-color-light); line-height: 1.3;">J. Royal Society<br>Interface</p>
-    </div>
+    <a href="https://royalsocietypublishing.org/journal/rsif" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/journal_covers/m_rsif.2025.22.issue-223.cover.gif" alt="Journal of the Royal Society Interface"
+        style="height: 180px; width: 140px; object-fit: cover; border-radius: 4px;
+               box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+               transition: transform 0.25s ease, box-shadow 0.25s ease;"
+        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 24px rgba(0,0,0,0.7)';"
+        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';">
+    </a>
 
-    <div style="text-align: center; width: 140px;">
-      <a href="https://www.pnas.org/" target="_blank" rel="noopener noreferrer">
-        <img src="/assets/journal_covers/pnas.webp" alt="PNAS"
-          style="height: 180px; width: 140px; object-fit: cover; border-radius: 4px;
-                 box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-                 transition: transform 0.25s ease, box-shadow 0.25s ease;"
-          onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 24px rgba(0,0,0,0.7)';"
-          onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';">
-      </a>
-      <p style="margin-top: 8px; font-size: 0.72em; color: var(--global-text-color-light); line-height: 1.3;">PNAS</p>
-    </div>
+    <a href="https://www.pnas.org/" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/journal_covers/pnas.webp" alt="PNAS"
+        style="height: 180px; width: 140px; object-fit: cover; border-radius: 4px;
+               box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+               transition: transform 0.25s ease, box-shadow 0.25s ease;"
+        onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 24px rgba(0,0,0,0.7)';"
+        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.5)';">
+    </a>
 
   </div>
 </div>
